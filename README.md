@@ -32,10 +32,10 @@ The dashboard was built to answer critical questions about how students and inst
 
 ## Screenshots
 ### Big Picture View
-![Big Picture Dashboard](ai_bigpicture.PNG)
+![Big Picture Dashboard](ss/Story1.png)
 
 ### Behavioral Deep Dive
-![Behavioral Dashboard](ai_behavioral.PNG)
+![Behavioral Dashboard](ss/Story2.png)
 
 ---
 
@@ -49,4 +49,4 @@ The dashboard was built to answer critical questions about how students and inst
 ---
 
 ## Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/shared/D6PS6ZYQ6?:display_count=n&:origin=viz_share_link)
+👉 [View on Tableau Public]([https://public.tableau.com/shared/D6PS6ZYQ6?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/59SXTFZ8Q?:display_count=n&:origin=viz_share_link))

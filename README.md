@@ -51,3 +51,10 @@ The dashboard was built to answer critical questions about how students and inst
 ## Live Dashboard
 👉 [View on Tableau Public](https://public.tableau.com/shared/59SXTFZ8Q?:display_count=n&:origin=viz_share_link)
 
+---
+
+## 📂 Dataset
+Data sourced from [Kaggle](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic)  
+Processed in Excel before visualization in Tableau.
+
+
